@@ -1,9 +1,9 @@
 # 🐜 Anthropolis: The Rise of the Colony
 
-> *"In the underworld of soil and stone,  
-> lives a realm of toil unknown.  
-> Where tiny hearts beat drums of code,  
-> and teamwork paves the narrow road."*
+    "In the underworld of soil and stone,  
+    lives a realm of toil unknown.  
+    Where tiny hearts beat drums of code,  
+    and teamwork paves the narrow road."
 
 ---
 
